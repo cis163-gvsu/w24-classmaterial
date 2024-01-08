@@ -18,7 +18,7 @@ of what is happening and the code and a more intentional approach.
 
 * [Syllabus](syllabus.md)
 * [Piazza](https://piazza.com/gvsu/winter2024/cis16302/home) -- also [FAQ about Piazza](piazza-faq.md)
-* [PrairieLearn](https://us.prairielearn.com/pl/course_instance/141391) - log-in
+* [PrairieLearn](https://us.prairielearn.com/pl/course_instance/147595) - log-in
   using "Google" and use your GVSU gmail account
 
 ### Need Help?
