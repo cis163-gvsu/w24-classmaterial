@@ -189,6 +189,7 @@ Programming projects require considerable amount of time outside of class. I adv
 * All homework and programming projects, unless otherwise specified by the instructor,
   are to be completed individually. Students are encouraged to consult each other for instructional assistance only.
 * The instructor reserves the right to modify course policies, the course calendar, and assignment point values and due dates.
+* Any part of a project that works, but you cannot explain to me why or how is considered "non-functional" and you will lose those points.  The objective is to do more than make working programs -- it is to learn to think properly.
 * This course is subject to the GVSU policies listed at [http://www.gvsu.edu/coursepolicies/](http://www.gvsu.edu/coursepolicies/).
 
 
