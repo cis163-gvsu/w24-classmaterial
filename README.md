@@ -33,7 +33,7 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 
 | Week | Date          | Topics | TODOs | Reading |
 | ---- | ------------- | ------ | ----- | ------- |
-|  01  | 01/08 - 01/12 | 162 Review <br> docstrings <br> Classes and Objects | Project 1 assigned <br> lab1 | Ch07 (except queues/stacks) and [Pep8 Documentation](https://peps.python.org/pep-008) |
+|  01  | 01/08 - 01/12 | 162 Review <br> docstrings <br> Classes and Objects | Project 1 assigned <br> [lab1](https://us.prairielearn.com/pl/course_instance/147595/assessment/2388788) | Ch07 (except queues/stacks) and [Pep8 Documentation](https://peps.python.org/pep-008) |
 |  02  | 01/15 - 01/19 | No class 01/15 <br> Classes and Objects <br> Properties <br> Class Methods | test 1 | Ch01 and Ch02 (skip sec on modules and packages) |
 |  03  | 01/22 - 01/26 | Inheritance <br> Abstract Classes <br> UML | lab2 | Ch03 |
 |  04  | 01/29 - 02/02 | Multiple Inheritance demo <br> Polymporphism <br> References | Project 1 Due <br> lab3 |  |
