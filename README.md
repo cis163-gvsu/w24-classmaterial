@@ -33,9 +33,9 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 
 | Week | Date          | Topics | TODOs | Reading |
 | ---- | ------------- | ------ | ----- | ------- |
-|  01  | 01/08 - 01/12 | 162 Review <br> docstrings <br> Classes and Objects |  [lab1](https://us.prairielearn.com/pl/course_instance/147595/assessment/2388788) | Ch07 (except queues/stacks) and [Pep8 Documentation](https://peps.python.org/pep-008) |
-|  02  | 01/15 - 01/19 | No class 01/15 <br> Classes and Objects <br> Properties <br> Class Methods | [test 1](https://us.prairielearn.com/pl/course_instance/147595/assessment/2390668) <br> [Project 1 assigned](https://us.prairielearn.com/pl/course_instance/147595/assessment/2391263) | Ch01 and Ch02 (skip sec on modules and packages) |
-|  03  | 01/22 - 01/26 | Inheritance <br> Abstract Classes <br> UML | lab2 | Ch03 |
+|  01  | 01/08 - 01/12 | 162 Review <br>  Classes and Objects <br> [Class Methods demo](|  [lab1](https://us.prairielearn.com/pl/course_instance/147595/assessment/2388788) | Ch07 (except queues/stacks) and [Pep8 Documentation](https://peps.python.org/pep-008) |
+|  02  | 01/15 - 01/19 | No class 01/15 <br> [Wed: pep8/docstrings](lec-notes/lec04-pep.pdf) <br> [Fri: matplotlib demo](misc-files/misc/matplotlib.py) <br> [OO/Class Methods](lec-notes/lec05-oo.pdf) | [test 1](https://us.prairielearn.com/pl/course_instance/147595/assessment/2390668) <br> [Project 1 assigned](https://us.prairielearn.com/pl/course_instance/147595/assessment/2391263) | Ch01 and Ch02 (skip sec on modules and packages) |
+|  03  | 01/22 - 01/26 | [Inheritance](lec-notes/lec06-inheritance.pdf) <br> [UML](lec-notes/lec07-uml.pdf) <br> Abstract Classes <br> UML | lab2 | Ch03 |
 |  04  | 01/29 - 02/02 | Multiple Inheritance demo <br> Polymporphism <br> References | Project 1 Due <br> lab3 |  |
 |  05  | 02/05 - 02/09 | Exceptions <br> Code Testing | Project 2 Assigned <br> lab4 <br> test 2 |  |
 |  06  | 02/12 - 02/16 | Code Testing <br> Recursion | lab 4 | |  
