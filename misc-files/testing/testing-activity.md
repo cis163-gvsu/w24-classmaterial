@@ -8,6 +8,7 @@ For instance, 6 and 5 are co-prime numbers because:
 * 6 has factors 1, 2, 3, and 6
 * 5 has factors 1, 5
 <br>
+
 ## Part 1:
 Come up with 10 different pairs of co-prime numbers.
 <br><br><br><br><br><br><br><br>
