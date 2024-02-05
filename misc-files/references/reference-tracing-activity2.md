@@ -1,5 +1,4 @@
 # Tracing References in Code
-
 Consider the following code:
 
 ```
@@ -9,9 +8,7 @@ class Misc:
         self.color = color
         self.num = num
         self.name = name
-        self.lst = [int(name[i]) for i in range(len(name))]
-
-    def reverse_name
+        self.lst = [ord(name[i]) for i in range(len(name))]
             
     def mystery(self, first, second):
         third = second
@@ -23,12 +20,12 @@ class Misc:
         second.lst[-1] = 'z'
         second = fourth
         fourth.lst[-1] = 'a'
-        fourth.name = fourth.name.toupper()
-        third.name.tolower()
+        fourth.name = fourth.name.upper()
+        third.name.lower()
         first.color = self.color
         second.color = third.color
         fourth.num += 10
-        thrid.name = 'foobar'
+        third.name = 'foobar'
         return self, fourth
     
 def foo(m1, m2, x1, x2):
@@ -91,4 +88,3 @@ Line 9:
 Line 10:
 
 Line 11:
-
