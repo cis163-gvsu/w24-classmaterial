@@ -38,7 +38,7 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 |  03  | 01/22 - 01/26 | [Inheritance / Abstract Classes](lec-notes/lec06-inheritance.pdf) <br> [UML](lec-notes/lec07-uml.pdf) <br> [Polymporphism](lec08-polymorphism.pdf) | [lab3](https://us.prairielearn.com/pl/course_instance/147595/assessment/2391924) | Ch03 |
 |  04  | 01/29 - 02/02 | [Properties](lec-notes/lec09-properties.pdf) <br> [Code Testing - part 1](lec-notes/lec10-testing.pdf) <br> [unittest demo](misc-files/testing/unittest-example.py) <br> [Code Testing - part 2](lec-notes/lec11-testing.pdf) <br> Multiple Inheritance demo |  <br> [lab4](https://us.prairielearn.com/pl/course_instance/147595/assessment/2394081)  |  |
 |  05  | 02/05 - 02/09 | [Reference Tracing Activity](misc-files/references/reference-tracing-activity.md) <br> [Additional Reference Tracing Practice](misc-files/references/reference-tracing-activity2.md) <br> Recursion  | Project 1 due: <br> 110% deadline Mon, 02/05 @ 11:59pm <br> 100% deadline Fri, 02/09 @ 11:59pm  <br> test 2 |  |
-|  06  | 02/12 - 02/16 | Recursion | lab 4 <br> Project 2 Assigned | |  
+|  06  | 02/12 - 02/16 | Recursion | [lab 5](https://us.prairielearn.com/pl/course_instance/147595/assessment/2398589) <br> Project 2 Assigned | |  
 |  07  | 02/19 - 02/23 | Recursion | lab5 | [Debugger Documentation](https://docs.python.org/3/library/pdb.html)  |
 |  08  | 02/26 - 03/01 | Exceptions | test 3 | |
 |  09  | 03/04 - 03/08 | No class (Spring Break) |  | |
