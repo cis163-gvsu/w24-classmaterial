@@ -98,17 +98,21 @@ if __name__ == '__main__':
 ```
 
 ## What is the output for part A?
-<br><br><br>
+<br><br><br><br><br><br>
 
 ## What is the output for part B?
-<br><br><br>
+<br><br><br><br><br><br>
+
 
 ## What is the output for part C?
-<br><br><br>
+<br><br><br><br><br><br>
+
 
 ## What is the output for part D?
-<br><br><br>
+<br><br><br><br><br><br>
+
 
 ## What is the output for part E?
-<br><br><br>
+<br><br><br><br><br><br>
+
 
