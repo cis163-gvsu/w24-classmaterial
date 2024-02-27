@@ -40,9 +40,9 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 |  05  | 02/05 - 02/09 | [Reference Tracing Activity](misc-files/references/reference-tracing-activity.md) <br> [Additional Reference Tracing Practice](misc-files/references/reference-tracing-activity2.md) <br> Recursion  | Project 1 due: <br> 110% deadline Mon, 02/05 @ 11:59pm <br> 100% deadline Fri, 02/09 @ 11:59pm  <br> test 2 |  |
 |  06  | 02/12 - 02/16 | Recursion | [lab 5](https://us.prairielearn.com/pl/course_instance/147595/assessment/2398589) <br> Project 2 Assigned | |  
 |  07  | 02/19 - 02/23 | Recursion | lab5 | [Debugger Documentation](https://docs.python.org/3/library/pdb.html)  |
-|  08  | 02/26 - 03/01 | Exceptions | test 3 | |
+|  08  | 02/26 - 03/01 | Exceptions | lab 6 | |
 |  09  | 03/04 - 03/08 | No class (Spring Break) |  | |
-|  10  | 03/11 - 03/15 | Algorithmic Analysis | Project 2 Due <br> lab 6 |  |
+|  10  | 03/11 - 03/15 | Algorithmic Analysis | Project 2 Due <br> test 3 <br>  |  |
 |  11  | 03/18 - 03/22 | Searching and Sorting | Project 3 Assigned <br> lab7 | Ch10 |
 |  12  | 03/25 - 03/29 | Sorting Algorithms | test4 | |
 |  13  | 04/01 - 04/05 | Linked Lists  | lab 8 | |
