@@ -1,7 +1,6 @@
 # Tracing References in Code
 
 Consider the following code:
-
 ```
 class Car:
 
