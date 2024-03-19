@@ -1,4 +1,4 @@
-# Tracing Exceptions
+# Tracing Exceptions - Friday
 
 Consider the following code:
 

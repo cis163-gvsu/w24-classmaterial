@@ -1,4 +1,4 @@
-# Tracing Exceptions
+# Tracing Exceptions - Wednesday
 
 Consider the following code:
 
@@ -43,7 +43,7 @@ if __name__ == '__main__':
 
 ```
 
-What is the output of self code?
+What is the output of this code?
 
 
 
