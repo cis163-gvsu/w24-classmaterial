@@ -39,12 +39,12 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 |  04  | 01/29 - 02/02 | [Properties](lec-notes/lec09-properties.pdf) <br> [Code Testing - part 1](lec-notes/lec10-testing.pdf) <br> [unittest demo](misc-files/testing/unittest-example.py) <br> [Code Testing - part 2](lec-notes/lec11-testing.pdf) <br> Multiple Inheritance demo |  <br> [lab4](https://us.prairielearn.com/pl/course_instance/147595/assessment/2394081)  |  |
 |  05  | 02/05 - 02/09 | [Reference Tracing Activity](misc-files/references/reference-tracing-activity.md) <br> [Additional Reference Tracing Practice](misc-files/references/reference-tracing-activity2.md) <br> Recursion  | Project 1 due: <br> 110% deadline Mon, 02/05 @ 11:59pm <br> 100% deadline Fri, 02/09 @ 11:59pm  <br> test 2 |  |
 |  06  | 02/12 - 02/16 | Recursion | [lab 5](https://us.prairielearn.com/pl/course_instance/147595/assessment/2398589) <br> Project 2 Assigned | |  
-|  07  | 02/19 - 02/23 | Recursion | lab5 | [Debugger Documentation](https://docs.python.org/3/library/pdb.html)  |
-|  08  | 02/26 - 03/01 | Exceptions | lab 6 | |
+|  07  | 02/19 - 02/23 | Recursion | [lab6](https://us.prairielearn.com/pl/course_instance/147595/assessment/2400800) | [Debugger Documentation](https://docs.python.org/3/library/pdb.html)  |
+|  08  | 02/26 - 03/01 | Exceptions | [lab 7](https://us.prairielearn.com/pl/course_instance/147595/assessment/2402912) | |
 |  09  | 03/04 - 03/08 | No class (Spring Break) |  | |
-|  10  | 03/11 - 03/15 | Algorithmic Analysis | Project 2 Due <br> test 3 <br>  |  |
-|  11  | 03/18 - 03/22 | Searching and Sorting | Project 3 Assigned <br> lab7 | Ch10 |
-|  12  | 03/25 - 03/29 | Sorting Algorithms | test4 | |
+|  10  | 03/11 - 03/15 | [Mon/Wed: Algorithmic Analysis / Code Complexity](lec-notes/lec16-algorithm-analysis.pdf) <br> [Friday: bubble / selection / mergesort](lec-notes/lec17-sorting-bubble-selection-mergesort.pdf) | Project 2 Extra Credit Deadline 03/15 <br> test 3 <br>  |  |
+|  11  | 03/18 - 03/22 | [Mon: Sorting - recap & insertion sort](lec-notes/lec18-sorting-insertion.pdf) | Project 2 Due Friday 03/22 <br> [lab8](https://us.prairielearn.com/pl/course_instance/147595/assessment/2407961) | Ch10 |
+|  12  | 03/25 - 03/29 | Sorting Algorithms | Project 3 Assigned <br> test4 | |
 |  13  | 04/01 - 04/05 | Linked Lists  | lab 8 | |
 |  14  | 04/08 - 04/12 | Stacks/Queues | Project 3 Due <br> lab9 | |
 |  15  | 04/15 - 04/19 | Review |  test 5 |  | 
