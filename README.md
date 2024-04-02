@@ -43,9 +43,9 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 |  08  | 02/26 - 03/01 | Exceptions | [lab 7](https://us.prairielearn.com/pl/course_instance/147595/assessment/2402912) | |
 |  09  | 03/04 - 03/08 | No class (Spring Break) |  | |
 |  10  | 03/11 - 03/15 | [Mon/Wed: Algorithmic Analysis / Code Complexity](lec-notes/lec16-algorithm-analysis.pdf) <br> [Friday: bubble / selection / mergesort](lec-notes/lec17-sorting-bubble-selection-mergesort.pdf) | Project 2 Extra Credit Deadline 03/15 <br> test 3 <br>  |  |
-|  11  | 03/18 - 03/22 | [Mon: Sorting - recap & insertion sort](lec-notes/lec18-sorting-insertion.pdf) | Project 2 Due Friday 03/22 <br> [lab8](https://us.prairielearn.com/pl/course_instance/147595/assessment/2407961) | Ch10 |
-|  12  | 03/25 - 03/29 | Sorting Algorithms | Project 3 Assigned <br> test4 | |
-|  13  | 04/01 - 04/05 | Linked Lists  | lab 8 | |
-|  14  | 04/08 - 04/12 | Stacks/Queues | Project 3 Due <br> lab9 | |
+|  11  | 03/18 - 03/22 | [Mon: Sorting - recap & insertion sort](lec-notes/lec18-sorting-insertion.pdf) <br> [Exceptions](lec-notes/lec19-exceptions.pdf) <br> [Wed: exception tracing activity 1](misc-files/exceptions/trace-activity.md) <br> [Fri: exception tracing activity 2](misc-files/exceptions/trace-activity-advanced.md) | Project 2 Due Friday 03/22 <br> [lab8](https://us.prairielearn.com/pl/course_instance/147595/assessment/2407961) | Ch10 |
+|  12  | 03/25 - 03/29 | [Mon: quicksort](lec-notes/lec20-sorting-quicksort.pdf) <br> [Linked Lists](lec-notes/lec21-linked-list.pdf) | Project 3 Assigned <br> test4 | |
+|  13  | 04/01 - 04/05 | [Mon: Stacks](lec-notes/lec22-stack.pdf)  | [lab 9](https://us.prairielearn.com/pl/course_instance/147595/assessment/2411690) | |
+|  14  | 04/08 - 04/12 | Stacks/Queues | Project 3 Due <br> lab10 | |
 |  15  | 04/15 - 04/19 | Review |  test 5 |  | 
 |      | 04/20         | FINAL EXAM Saturday, December 9, 2023 <br> 9:00AM - 10:50AM <br> Building/Room:  TBD |  |  |
